@@ -41,6 +41,7 @@ To develop a predictive classification model that automatically labels GitHub is
      - Random Forest
      - Naive Bayes
      - XGBoost
+     - XGBoost + SMOTE and Class Weight
      - Logistic Regression with BERT embeddings
 
 5. **Evaluation**
